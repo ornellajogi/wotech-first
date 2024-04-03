@@ -14,7 +14,7 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 
 ## My favorite bit of code
 
-´´´java
+```java
     if (temp <= 5) {
       System.out.println("Wear super warm");
     }
@@ -30,5 +30,5 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
     
   }
 
-'''
+```
 '''
